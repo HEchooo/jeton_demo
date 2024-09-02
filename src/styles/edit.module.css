@@ -1,0 +1,37 @@
+.content_editable {
+    @apply w-full h-80 overflow-hidden overflow-y-scroll p-4 rounded-xl relative mo:text-[10px];
+    border: 1px solid #EDEDF0;
+    outline: none;
+
+    ol {
+        @apply absolute left-0 top-0 z-10 w-full;
+        counter-reset: section;
+
+        li {
+            @apply flex indent-2 w-full h-10 leading-10 overflow-hidden relative pl-14 pr-2 mo:pl-5;
+            white-space: nowrap;
+
+            &::before {
+                @apply h-full block text-center w-14 absolute left-0 top-0 mo:w-5;
+                background: #F7F8FA;
+                counter-increment: section;
+                content: counters(section, ".") " ";
+            }
+
+            &:nth-child(2n) {
+                background: #FAFBFC;
+            }
+
+            &.red {
+                color: #FF3D3D !important;
+                background: #FFF0F0 !important;
+            }
+        }
+    }
+
+    &:empty::before {
+        @apply w-full relative text-sm text-word-grey mo:text-xs;
+        content: attr(placeholder);
+        background: transparent;
+    }
+}

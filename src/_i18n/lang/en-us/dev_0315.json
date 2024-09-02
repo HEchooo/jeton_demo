@@ -1,0 +1,14 @@
+{
+	"選擇NFT": "Select NFT",
+	"暂无NFT": "No NFT",
+	"代币余额不足": "Insufficient token",
+	"gas费不足": "Insufficient gas fee",
+	"代币不足": "Insufficient token",
+	"删除": "Delete",
+	"请在钱包中授权": "Please authorize in wallet",
+	"预计節省 ≈ %n": "Est. save ≈ %n",
+	"发送失败": "Send failure",
+	"下载模板": "Download Template",
+	"暂不支持该链": "Current chain not support",
+	"无限量地址一键快捷转账,矿工费最高可省50%": "Batch fast transfer for un-limited addresses, save up to 50% gas fee"
+}

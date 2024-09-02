@@ -1,0 +1,15 @@
+.gird {
+    display: grid;
+    grid-template-rows: 0fr;
+    min-height: 0;
+    transition:grid-template-rows 0.3s;
+}
+.gird_open {
+    grid-template-rows: 1fr;
+}
+.ani {
+    transition: 0.5s;
+}
+.close {
+
+}

@@ -1,0 +1,40 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+    <circle id="Circle_Round"
+            cx="50"
+            cy="50"
+            r="40"
+            stroke="url(#gradient)"
+            stroke-width="10"
+            fill="none"
+            stroke-linecap="round"
+            stroke-dashoffset="80"
+            stroke-dasharray="200"
+            stroke-opacity="0.5"
+    />
+    <defs>
+        <linearGradient id="gradient">
+            <stop
+                    offset="0%"
+                    style="stop-color: white;"
+            />
+            <stop
+                    offset="60%"
+                    style="stop-color: #000000"
+            />
+        </linearGradient>
+    </defs>
+    <style type="text/css">
+        @keyframes Round {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+        #Circle_Round{
+            transform-origin: center;
+            animation: Round infinite 0.5s linear;
+        }
+    </style>
+</svg>

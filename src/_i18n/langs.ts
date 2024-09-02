@@ -1,0 +1,17 @@
+export const _utilsBatchFnTs = ["{#该行空了请删除！#}","{#地址格式错误，請重新輸入#}","{#格式错误，请输入正确的转账数量#}","{#格式错误，請重新輸入#}","{#单次最多400条#}","{#格式错误，转账数量请输入≥1的整数#}","{#请输入需要发送的NFT数量#}","{#Token ID 为 %v的NFT数量不足，无法发送#}","{#Token ID 为 %v的NFT不属于您，无法发送#}","{#请输入需要发送的Token ID#}","{#格式错误，Token ID 请输入≥0的整数#}","{#Token ID 为%v的NFT发送给了多个地址#}"];
+export const ComponentsBridgeFeeTsx = ["{#暂无第三方跨链桥支持该路径#}","{#%d 天#}","{#%h小时#}","{#%m分钟#}","{#跨链桥#}","{#最快速度#}","{#最優價格#}","{#滑点#}","{#跨链费#}","{#手續費#}","{#Jeton協議手續費#}","{#礦工費#}","{#礦工費用於交易上鍊費用，非平台收取，Jeton協議允許您使用穩定幣支付礦工費，費用包括：#}","{#目标链礦工費#}","{#礦工費代幣#}","{#選擇路徑#}","{#預估到賬 %d#}","{#比其他路徑至少可快 %d#}","{#比其他路徑的費用節約的費用節約的費用節約 %d#}"];
+export const ComponentsMaxTipsTsx = ["{#预留金额提醒#}","{#為避免交易失敗，已在錢包中預留 %n 作為交易時的網路費用。 由於鏈上網路費用波動，每次預留金額不同。#}","{#下次不再提醒#}","{#取消#}","{#我知道了#}"];
+export const ComponentsSlipPointTsx = ["{#设置滑点#}","{#默认#}","{#自定义#}","{#單鏈#}","{#跨链#}","{#確認#}"];
+export const ComponentsSwapFeeTsx = ["{#仅支持跨链交易#}"];
+export const ComponentsBaseCsvReaderTsx = ["{#請將文件拖至此處/點擊上傳#}","{#僅支持.CSV格式文件#}"];
+export const ComponentsBaseVsEditTsx = ["{#上傳文件#}","{#下载模板#}"];
+export const ComponentsBtrNftSelectTsx = ["{#選擇藏品#}","{#選擇NFT#}","{#暂无NFT#}"];
+export const ComponentsBtrTokenSelectTsx = ["{#選擇代幣#}","{#搜索代幣或粘貼合約地址#}","{#%n餘額#}"];
+export const ComponentsLayoutDefaultLayoutTsx = ["{#Swap & Bridge#}"];
+export const ComponentsModalAddressEditTsx = ["{#編輯收款錢包#}","{#请输入钱包地址#}","{#地址格式不正确#}","{#取消#}","{#保存#}"];
+export const ComponentsModalGastokenModalTsx = ["{#选择矿工费代币#}","{#餘額#}"];
+export const ComponentsModalTokenModalTsx = ["{#选择币种#}","{#选择网络#}","{#该链暂不支持与%c链跨链兑换#}","{#全部#}","{#更多#}","{#不支持与%d链的%t跨链兑换#}","{#未匹配到要交易的代幣#}","{#選擇網絡#}","{#暫不支持与 %d 的跨鏈#}","{#暂不支持 %c 到以下链的跨链#}"];
+export const ComponentsSwapFeatureInfoTsx = ["{#AI 智能路由#}","{#智能匹配最優的路徑#}","{#GasLess 交易#}","{#任意稳定币支付gas#}","{#全網絡支持#}","{#費用更低更便捷#}"];
+export const PagesLangJeDefiTsx = ["{#Swap & Bridge#}","{#暂未开放#}"];
+export const PagesLangJeGasFarmTsx = ["{#Swap & Bridge#}","{#暂未开放#}"];
+export const PagesLangJeSwapBridgeTsx = ["{#Sign签名失败#}","{#交易已发起，请稍后在插件中查看结果#}","{#交易失败#}","{#交易成功#}","{#发送交易失败#}","{#链接钱包#}","{#兑换#}","{#跨链兑换#}","{#請在錢包中確認#}","{#授权 %t#}","{#代币%d余额不足#}","{#矿工费%d不足#}","{#授權礦工費 %t#}","{#切换网络#}","{#授权交易失败#}","{#代币授权成功#}","{#Swap & Bridge#}","{#兌換&跨鏈#}","{#從%n#}","{#餘額#}","{#全部#}","{#到%n#}","{#请选择#}","{#本次最小跨链数量为#}","{#本次最大跨链数量为#}","{#流动性不足，无法交易#}","{#请输入钱包#}"];

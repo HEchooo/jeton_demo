@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4384767 */
+  src: url('iconfont.woff2?t=1708929359599') format('woff2'),
+       url('iconfont.woff?t=1708929359599') format('woff'),
+       url('iconfont.ttf?t=1708929359599') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  //font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vc-gas:before {
+  content: "\e654";
+}
+
+.vc-time:before {
+  content: "\e655";
+}
+
+.vc-global-2:before {
+  content: "\e64d";
+}
+
+.vc-trans:before {
+  content: "\e64e";
+}
+
+.vc-to:before {
+  content: "\e64f";
+}
+
+.vc-menu:before {
+  content: "\e650";
+}
+
+.vc-more:before {
+  content: "\e651";
+}
+
+.vc-falsh:before {
+  content: "\e652";
+}
+
+.vc-search:before {
+  content: "\e653";
+}
+
+.vc-edit:before {
+  content: "\e64c";
+}
+
+.vc-copy:before {
+  content: "\e63c";
+}
+
+.vc-suc:before {
+  content: "\e63d";
+}
+
+.vc-partner:before {
+  content: "\e63e";
+}
+
+.vc-out:before {
+  content: "\e63f";
+}
+
+.vc-close:before {
+  content: "\e640";
+}
+
+.vc-assets:before {
+  content: "\e641";
+}
+
+.vc-home:before {
+  content: "\e642";
+}
+
+.vc-refresh:before {
+  content: "\e643";
+}
+
+.vc-batch:before {
+  content: "\e644";
+}
+
+.vc-next:before {
+  content: "\e645";
+}
+
+.vc-select:before {
+  content: "\e646";
+}
+
+.vc-warning:before {
+  content: "\e647";
+}
+
+.vc-export:before {
+  content: "\e648";
+}
+
+.vc-order:before {
+  content: "\e649";
+}
+
+.vc-docs:before {
+  content: "\e64a";
+}
+
+.vc-global:before {
+  content: "\e64b";
+}
+
+.vc-help:before {
+  content: "\e60c";
+}
+
+.vc-right:before {
+  content: "\e638";
+}
+

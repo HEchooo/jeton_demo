@@ -1,0 +1,83 @@
+
+
+.echooo_avatar {
+    @apply rounded-full;
+    background-image: url("https://cdn.echooo.xyz/front-end/source/images/logo/g-logo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.chain_tron {
+    background-image: url("https://cdn.echooo.xyz/front-end/source/images/chain/TRON.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.chain_polygon {
+    background-image: url("https://cdn.echooo.xyz/front-end/source/images/chain/Polygon.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.chain_ethereum {
+    background-image: url("https://cdn.echooo.xyz/front-end/source/images/chain/Ethereum.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.chain_bnb {
+    background-image: url("https://cdn.echooo.xyz/front-end/source/images/chain/BNB.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.coin_usdc {
+    background-image: url("https://cdn.echooo.xyz/front-end/source/images/coin/usdc.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.coin_usdt {
+    background-image: url("https://cdn.echooo.xyz/front-end/source/images/coin/usdt.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.status_suc {
+    background-image: url("./svg/icon-suc.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.status_fail {
+    background-image: url("./svg/icon-fail.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.status_ing {
+    background-image: url("./svg/icon-trading.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.ic_ai {
+    background-image: url("./png/ic-ai.png");
+    background-size: 100% 100%;
+}
+
+.ic_fullnet {
+    background-image: url("./png/ic-fullnet.png");
+    background-size: 100% 100%;
+}
+
+.ic_gas {
+    background-image: url("./png/ic-gas.png");
+    background-size: 100% 100%;
+}
+
+.empty {
+    background-image: url("./png/empty.png");
+    background-size: 100% 100%;
+}
