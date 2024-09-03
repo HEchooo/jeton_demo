@@ -1,0 +1,23 @@
+{
+	"upload": {
+		"uploadPath": "out",
+		"s3Static": "static/jeton_demo"
+	},
+	"deploy": {
+		"example": "test redirect to https://jeton.valleysound.xyz/",
+		"baseUrl": ["/", "zh-cn/", "en-us/", "zh-hk/"],
+		"host": "https://demo.jetonai.com",
+		"testHost": "https://www.valleysound.xyz"
+	},
+	"aws": {
+		"Bucket": "",
+		"prefix": "",
+		"HostName": ""
+	},
+	"crowdin": {
+		"project": "fed-vs-dapp",
+		"workDir": "src",
+		"reg": "{#(.+?)#}",
+		"keysDir": "src/_i18n"
+	}
+}
