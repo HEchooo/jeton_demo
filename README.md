@@ -23,19 +23,20 @@ You can check the requested interfaces in `src/_yapi/index.ts`
 ## Apply For TenantId
 
 If you wish to run your own project, you will need to apply for a `tenantId` and `tenantToken` via email. After the application is complete, replace the `tenantId` and `tenantToken` in `src/_yap/request.ts`, and then run the project again to complete the configuration.
-The default provided tenantId and tenantToken restrict the number of requests to 10 times per minute
+The default provided tenantId and tenantToken restrict the number of requests to 10 times per minute.
 
 **How to apply for a Tenant ID and Tenant Token?**
 
 ```
 I would like to request a Tenant ID and Tenant Token for my company.
 
-Company Name:    <Your Company's Name>
-Email:           <Contact Email Address, default is the current sending email address>
-Purpose:         <Briefly describe the usage scenario>
+Company Name:             <Your Company's Name>
+Email:                    <Contact Email Address, default is the current sending email address>
+Purpose:                  <Briefly describe the usage scenario>
+Request website domain:   <Optional, direct requests to the interface from the website do not need to include 														 tenantToken, to prevent tenantToken leakage. However, if using backend calls to the 														 interface, both tenantId and tenantToken must be included.>
 ```
 
-You can use this template to send your email to  business@jetonai.com
+You can use this template to send your email to  business@jetonai.com.
 
 
 
