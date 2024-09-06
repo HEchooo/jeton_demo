@@ -44,3 +44,5 @@ vs.config.bak.json
 
 # Methods of Deployment to Production
 package-copy.json
+
+_document-copy.tsx

@@ -377,7 +377,7 @@
 			"md5": "0d11081d6beaad64bf5a9f58f432e3d8"
 		}
 	],
-	"deployVersion": "m0knq4u5",
+	"deployVersion": "m0qfhkcu",
 	"ls79glb8": [
 		{
 			"cdnLink": "https://cdn.echooo.xyz/front-end/static/fed-vs-jeton/404.html",
@@ -41746,6 +41746,124 @@
 		{
 			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/static/chunks/pages/[lang]/je/swap-bridge-6444ab85a46df873.js",
 			"md5": "f9effc4ef44bcd534e0493460e39faff"
+		}
+	],
+	"m0qfhkcu": [
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/404.html",
+			"md5": "d5bf28bab0291371f0a6336c8686ea2e"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/index.html",
+			"md5": "9ba7732acf35930c1723f1f6b13213d4"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/404/index.html",
+			"md5": "d5bf28bab0291371f0a6336c8686ea2e"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/en-us/404/index.html",
+			"md5": "8023fb792da9dd445d13fe1306f72f36"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-cn/404/index.html",
+			"md5": "250940336eefc1e383df496efc7470b6"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-hk/404/index.html",
+			"md5": "bea3231c8bdefb78ca923741418ea338"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/static/zhwhUAykWalPnEX9CIMPO/_buildManifest.js",
+			"md5": "03cac5e7d42118dd889471e2498678b6"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/static/zhwhUAykWalPnEX9CIMPO/_ssgManifest.js",
+			"md5": "8c7e18cb460bb078c0f6c7b53e05ad3d"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/en-us/je/defi/index.html",
+			"md5": "bc40d9f10e9980dd6aa12cecedd7769f"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/en-us/je/gas-farm/index.html",
+			"md5": "bd45c281e17d49bd28fa59a114c2091c"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/en-us/je/swap-bridge/index.html",
+			"md5": "c67f067843b70244e7077afcbd6b9f3f"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-cn/je/defi/index.html",
+			"md5": "8d5b9d860db70eacb9e36bf9e9c2dc09"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-cn/je/gas-farm/index.html",
+			"md5": "d7f82dd023c9cfa5c96c462b50f70b9d"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-cn/je/swap-bridge/index.html",
+			"md5": "685b9660b9cb19fd910ad258111fa24b"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-hk/je/defi/index.html",
+			"md5": "64e6063fe10fc98f10cc810b09706651"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-hk/je/gas-farm/index.html",
+			"md5": "9679894e38fab29f2f7e3dda72865327"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/zh-hk/je/swap-bridge/index.html",
+			"md5": "64692e1844b469d6d68900ce54f9076b"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/en-us/404.json",
+			"md5": "05bbb82c44fedd27f9463ddee8d4c6f6"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-cn/404.json",
+			"md5": "4c247215a4d8bc793b785f1c8b0aba4e"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-hk/404.json",
+			"md5": "82f36807cc231ba2d7e7f43a13d5f87b"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/en-us/je/defi.json",
+			"md5": "3fde919b44385abab9de6e9b20ee0df1"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/en-us/je/gas-farm.json",
+			"md5": "3fde919b44385abab9de6e9b20ee0df1"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/en-us/je/swap-bridge.json",
+			"md5": "c1e5fbf5e04aa345b5f4ea5d2fbc05aa"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-cn/je/defi.json",
+			"md5": "a437ce838d516f87687c9422cd5ace8f"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-cn/je/gas-farm.json",
+			"md5": "a437ce838d516f87687c9422cd5ace8f"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-cn/je/swap-bridge.json",
+			"md5": "d133ae36356ab06aef7910c9e6df7e2e"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-hk/je/defi.json",
+			"md5": "85f0841d0cc71b941ba467b7db5569b3"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-hk/je/gas-farm.json",
+			"md5": "85f0841d0cc71b941ba467b7db5569b3"
+		},
+		{
+			"cdnLink": "https://cdn.echooo.xyz/front-end/static/jeton_demo/_next/data/zhwhUAykWalPnEX9CIMPO/zh-hk/je/swap-bridge.json",
+			"md5": "57c418fc38247c33794e735b0e890194"
 		}
 	]
 }
